@@ -1,0 +1,34 @@
+url: https://noconnor.github.io
+baseurl: /cabinteelyframing/
+
+# Site settings
+title: Cabinteely Framing
+email: 
+description: "Framing service for water colours, oil paintings, certificates, posters or memorabilia"
+
+
+# Team names, titles and social links
+people:
+- name: Niall
+  pic: 1
+  position: I had some old movie posters framed to put in my daughters room. They turned out great. Service was very professional and very quick.
+    
+- name: Barry
+  pic: 2
+  position: I had some of my art work framed for an upcoming exhibition. Pictures ranged in size and the deadline was very tight. I was very happy with the quality of the work.
+
+- name: Graham
+  pic: 3
+  position: I had an old oil painting frame repaired after it fell off the wall. Almost impossible to tell the repair work from the original frame. I highly recommend Cabinteely framing.
+  
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social: []
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 21 Monaloe Ave
+  - line: Cabinteely
+
+# Build settings
+markdown: kramdown
+permalink: pretty
