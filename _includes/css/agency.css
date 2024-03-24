@@ -19,7 +19,7 @@ body {
 }
 
 p {
-    font-size: 16px;
+    font-size: 18px;
     line-height: 1.75;
 }
 
@@ -286,7 +286,7 @@ header .intro-text {
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
     font-family: {{ site.data.template.font.secondary }};
-    font-size: 13px;
+    font-size: 15px;
     font-style: italic;
     line-height: 22px;
 }
@@ -309,7 +309,7 @@ header .intro-text .intro-heading {
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
         font-family: {{ site.data.template.font.secondary }};
-        font-size: 18px;
+        font-size: 20px;
         font-style: italic;
         line-height: 40px;
     }
@@ -338,7 +338,7 @@ section h3.section-subheading {
     margin-bottom: 75px;
     text-transform: none;
     font-family: {{ site.data.template.font.secondary }};
-    font-size: 16px;
+    font-size: 18px;
     font-style: italic;
     font-weight: 400;
 }
@@ -418,7 +418,7 @@ section h3.section-subheading {
 #portfolio .portfolio-item .portfolio-caption p {
     margin: 0;
     font-family: {{ site.data.template.font.secondary }};
-    font-size: 16px;
+    font-size: 18px;
     font-style: italic;
 }
 
